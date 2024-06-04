@@ -34,7 +34,7 @@
     right: 0;
     bottom: 0;
     
-    background: rgba(0, 0, 0, 0.7); /* Adjust the opacity here */
+    background: rgba(0, 0, 0, 0.5); /* Adjust the opacity here */
     z-index: 1;
 }
 
